@@ -97,7 +97,8 @@
     "docs.microsoft": "Can you make me into an app?",
     "microsoft.com/en-us/microsoft-365/word": [
         "My room looks a little dusty.",
-        "Where are all my friends?"
+        "Where are all my friends?",
+        "I'm getting Deja Vu."
     ],
     "microsoft": [
         "Hey Bill! Say Hi Bill!",
@@ -182,7 +183,8 @@
         "Insert a cool scratch fact here.",
         "Wanna learn java?",
         "Wanna learn lua?",
-        "Wanna learn html5?"
+        "Wanna learn html5?",
+        "Looks like /somebody/ doesn't want to learn how to actually code."
     ],
     "discord.com": [
         "Chatting with friends, aren't you?",
@@ -236,6 +238,9 @@
         "Look for me! Look for ME!",
         "Is there anything that is NOT on this site?",
         "There are likely more pages on this website than there are most things on the internet."
+    ],
+    "wikipedia.org/wiki/Office_Assistant": [
+        "Hey! That's me!",
     ],
     "archive.org": "Can you use this to bring me back?",
     "itch.io": [
@@ -394,5 +399,9 @@
         "Why read daily.dev when I can read it for you?",
         "I also read daily.dev!",
         "Keeping up with your reading streak?"
+    ],
+    "copilot.microsoft.com": [
+        "You should try the image generator.",
+        "Are you getting sick of me?"
     ]
 }
